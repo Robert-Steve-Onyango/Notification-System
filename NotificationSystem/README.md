@@ -20,5 +20,8 @@ This project demonstrates the integration of an email and push notification syst
 3. Configure email and push notification settings.
 4. Run the notification service.
 
+## Demo
+[Link to demo video or screenshots]
+
 ## Contact
-Robert - robert.steve.onyango@gmail.com
+[Your Name] - [Your Email]
